@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yjisme/multi-static-pages-webpackproj.git"
+    "url": "git+https://github.com/HuangGuangXian/multi-static-pages-webpackproj.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yjisme/multi-static-pages-webpackproj/issues"
+    "url": "https://github.com/HuangGuangXian/multi-static-pages-webpackproj/issues"
   },
-  "homepage": "https://github.com/yjisme/multi-static-pages-webpackproj#readme",
+  "homepage": "https://github.com/HuangGuangXian/multi-static-pages-webpackproj#readme",
   "devDependencies": {
     "@babel/core": "^7.8.4",
     "@babel/preset-env": "^7.8.4",
